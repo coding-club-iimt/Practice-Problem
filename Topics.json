@@ -1,0 +1,124 @@
+{
+    
+    "1":{
+        "topic": "Arrays"
+
+
+        },
+        "2":{
+            "topic": "Strings"
+    
+    
+            },
+         "3":{
+             "topic": "Stacks"
+    
+    
+             
+         },
+            "4":{
+                "topic": "Queues"
+        
+        
+                
+            },
+            "5":{
+                "topic": "Linked Lists"
+        
+        
+                
+            },
+            "6":{
+                "topic": "Binary Search Trees"
+        
+        
+                
+            },
+            "7":{
+                "topic": "Graphs"
+        
+        
+                
+            },
+            "8":{
+                "topic": "Heaps"
+        
+        
+                
+            },
+            "9":{
+                "topic": "Hashing"
+        
+        
+                
+            },
+            "10":{
+                "topic": "Trees"
+        
+        
+                
+            },
+            "11":{
+                "topic": "Recursion"
+        
+        
+                
+            },
+            "12":{
+                "topic": "Sorting"
+        
+        
+                
+            },
+            "13":{
+                "topic": "Graph Traversal"
+        
+        
+                
+            },
+            "14":{
+                "topic": "Dynamic Programming"
+        
+        
+                
+            },
+            "15":{
+                "topic": "Greedy Algorithms"
+        
+        
+                
+            },
+            "16":{
+                "topic": "Backtracking"
+        
+        
+                
+            },
+            "17":{
+                "topic": "Divide and Conquer"
+        
+        
+                
+            },
+            "18":{
+                "topic": "Bit Manipulation"
+        
+        
+                
+            },
+            "19":{
+                "topic": "Geometry"
+        
+        
+                
+            },
+            "20":{
+                "topic": "Sorting"
+        
+        
+                
+            }
+           
+
+
+}
