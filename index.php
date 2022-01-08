@@ -37,9 +37,9 @@
 						  <thead>
 						    <tr>
 						      <th>Count</th>
-						      <th>Problem</th>
-						      <th>Difficulty</th>
 						      <th>Topic</th>
+						      <th>Difficulty</th>
+						     
 						    </tr>
 						  </thead>
 						  <tbody>
