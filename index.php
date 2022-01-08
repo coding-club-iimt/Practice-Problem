@@ -52,9 +52,9 @@
 
 						    <tr>
 						      <th scope="row"><?php echo $count; ?></th>
-						      <td><a style="color:white; " href="<?php  echo $value['link'] ; ?>"><?php  echo $value['name'] ; ?></a></td>
+						      <td><a style="color:white; " href="<?php  echo $value['link'] ; ?>"><?php  echo $value['topic'] ; ?></a></td>
 						      <td><?php  echo $value['difficulty'] ; ?></td>
-						      <td><?php  echo $value['topic'] ; ?></td>
+						     
 						    </tr>
 							
 							<?php } ?>
